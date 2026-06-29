@@ -6,7 +6,6 @@ Welcome to TaxClarity. This repository presents a fully client side Indian incom
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Description](#project-description)
-- [App Architecture](#app-architecture)
 - [Folder Structure](#folder-structure)
 - [Key Features](#key-features)
 - [Installation](#installation)
