@@ -27,9 +27,9 @@ Welcome to TaxClarity. This repository presents a fully client side Indian incom
 ----
 
 ## Project Description
-TaxClarity is a 14-step wizard that walks salaried individuals through their income, salary components, investments, and deductions — then calculates their tax liability under both regimes and recommends the one that saves them more money.
+TaxClarity is a 14-step wizard that walks salaried individuals through their income, salary components, investments, and deductions  then calculates their tax liability under both regimes and recommends the one that saves them more money.
 
-The app targets non-CA salaried employees who want a plain-English answer: "Pick New Regime. You save ₹18,540. Your total tax is ₹42,600." It covers all major tax sections relevant to salaried income — Section 16, 10(13A), 80C, 80D, 80CCD(1B), 80CCD(2), 24(b), 80TTA, 80TTB, and Section 87A rebate including marginal relief. All computation runs entirely in the browser. Zero data is sent to any server.
+The app targets non-CA salaried employees who want a plain-English answer: "Pick New Regime. You save ₹18,540. Your total tax is ₹42,600." It covers all major tax sections relevant to salaried income  Section 16, 10(13A), 80C, 80D, 80CCD(1B), 80CCD(2), 24(b), 80TTA, 80TTB, and Section 87A rebate including marginal relief. All computation runs entirely in the browser. Zero data is sent to any server.
 
 ----
 
@@ -45,9 +45,9 @@ S11 Home Loan (24b) → S12 TDS Deducted → S13 Calculating → S14 Results
 
 ### Tax Engine (`taxEngine.js`)
 The core computation module handles:
-- **New Regime** — ₹75,000 standard deduction, progressive slabs (0%–30%), 87A rebate up to ₹60,000, marginal relief near the ₹12L boundary, employer NPS 80CCD(2) capped at 14% of basic
-- **Old Regime** — ₹50,000 standard deduction, age-based slab exemptions (₹2.5L / ₹3L / ₹5L), all 80C / 80D / HRA / home loan deductions, 87A rebate up to ₹12,500 (not applicable to super seniors)
-- **TDS Position** — employer TDS + bank TDS combined and compared against the recommended regime's total tax
+- **New Regime**  ₹75,000 standard deduction, progressive slabs (0%–30%), 87A rebate up to ₹60,000, marginal relief near the ₹12L boundary, employer NPS 80CCD(2) capped at 14% of basic
+- **Old Regime**  ₹50,000 standard deduction, age-based slab exemptions (₹2.5L / ₹3L / ₹5L), all 80C / 80D / HRA / home loan deductions, 87A rebate up to ₹12,500 (not applicable to super seniors)
+- **TDS Position**  employer TDS + bank TDS combined and compared against the recommended regime's total tax
 
 ----
 
