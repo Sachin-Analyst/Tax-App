@@ -26,7 +26,7 @@ Welcome to TaxClarity. This repository presents a fully client side Indian incom
 ----
 
 ## Project Description
-TaxClarity is a 14-step wizard that walks salaried individuals through their income, salary components, investments, and deductions  then calculates their tax liability under both regimes and recommends the one that saves them more money.
+TaxClarity that walks salaried individuals through their income, salary components, investments, and deductions  then calculates their tax liability under both regimes and recommends the one that saves them more money.
 
 The app targets non-CA salaried employees who want a plain-English answer: "Pick New Regime. You save ₹18,540. Your total tax is ₹42,600." It covers all major tax sections relevant to salaried income  Section 16, 10(13A), 80C, 80D, 80CCD(1B), 80CCD(2), 24(b), 80TTA, 80TTB, and Section 87A rebate including marginal relief. All computation runs entirely in the browser. Zero data is sent to any server.
 
