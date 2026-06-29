@@ -32,16 +32,6 @@ The app targets non-CA salaried employees who want a plain-English answer: "Pick
 
 ----
 
-## App Architecture
-### 14-Step Wizard Flow
-
-```
-S01 Landing → S02 Financial Year → S03 Age Group → S04 Salary Details →
-S05 Salary Components → S06 Other Income → S07 Pays Rent? →
-S08 Rent Details → S09 Investments (80C + NPS) → S10 Health Insurance (80D) →
-S11 Home Loan (24b) → S12 TDS Deducted → S13 Calculating → S14 Results
-```
-
 ### Tax Engine (`taxEngine.js`)
 The core computation module handles:
 - **New Regime**  ₹75,000 standard deduction, progressive slabs (0%–30%), 87A rebate up to ₹60,000, marginal relief near the ₹12L boundary, employer NPS 80CCD(2) capped at 14% of basic
