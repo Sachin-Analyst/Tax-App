@@ -16,11 +16,11 @@ Welcome to TaxClarity. This repository presents a fully client side Indian incom
 
 ## Introduction
 ---
-*Project Title:* TaxClarity — Indian Income Tax Calculator FY 2025-26
+*Project Title:* TaxClarity  Indian Income Tax Calculator FY 2025-26
 
 *Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)
 
-*Tools Used:* React 18, Vite 6, Tailwind CSS 3, JSX — deployed on Vercel
+*Tools Used:* React 18, Vite 6, Tailwind CSS 3, JSX  deployed on Vercel
 
 *Focus Area:* Old vs New Regime Comparison, HRA Exemption, 80C / 80D / NPS Deductions, TDS Refund / Payable Status
 
