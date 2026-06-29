@@ -63,13 +63,13 @@ The core computation module handles:
 ----
 
 ## Key Features
-- *Old vs New Regime Comparison — Side-by-side tax calculation with a clear winner verdict and rupee savings amount*
-- *Live Tax Preview Panel — Updates in real time on desktop as the user fills in their salary details, before they even reach the results page*
-- *HRA Exemption Engine — Three-condition minimum calculation per Section 10(13A): annual HRA received, metro/non-metro percentage of basic, and rent paid minus 10% of basic*
-- *Complete 80C Tracker — Supports all 7 eligible items (EPF, LIC, PPF, ELSS, tuition fees, home loan principal, NSC) with a running total bar and ₹1.5L cap indicator*
-- *Section 87A Rebate + Marginal Relief — Correctly handles the ₹12L boundary for the new regime and the ₹5L boundary for the old regime, including the super senior exception*
-- *TDS Reconciliation — Combines employer TDS and bank FD TDS, then shows refund / payable / settled status with advance tax warning when applicable*
-- *Privacy-First Architecture — No backend, no login, no cookies, no data storage of any kind. All computation runs in the user's browser*
+- *Old vs New Regime Comparison  Side-by-side tax calculation with a clear winner verdict and rupee savings amount*
+- *Live Tax Preview Panel  Updates in real time on desktop as the user fills in their salary details, before they even reach the results page*
+- *HRA Exemption Engine  Three-condition minimum calculation per Section 10(13A): annual HRA received, metro/non-metro percentage of basic, and rent paid minus 10% of basic*
+- *Complete 80C Tracker  Supports all 7 eligible items (EPF, LIC, PPF, ELSS, tuition fees, home loan principal, NSC) with a running total bar and ₹1.5L cap indicator*
+- *Section 87A Rebate + Marginal Relief  Correctly handles the ₹12L boundary for the new regime and the ₹5L boundary for the old regime, including the super senior exception*
+- *TDS Reconciliation  Combines employer TDS and bank FD TDS, then shows refund / payable / settled status with advance tax warning when applicable*
+- *Privacy-First Architecture  No backend, no login, no cookies, no data storage of any kind. All computation runs in the user's browser*
 
 ----
 
@@ -105,7 +105,7 @@ To explore or run this project locally:
 
 ## Usage
 1. Open the app and click **"Start calculation"** on the landing page
-2. Work through the 14-step wizard — each step includes inline hints, common questions, and live validation
+2. Work through the 14-step wizard  each step includes inline hints, common questions, and live validation
 3. The **Live Tax Preview Panel** (desktop) updates your estimated tax in real time as you enter your salary
 4. After the calculating animation, the **Results page** shows your recommended regime, how much you save, and a detailed rupee-by-rupee breakdown of every deduction and slab
 
@@ -114,9 +114,9 @@ To explore or run this project locally:
 ----
 
 ## Live Demo
-Live App — https://tax-app-lime.vercel.app
+Live App - https://tax-app-lime.vercel.app
 
-Product Specification (taxprd.md) — [taxprd.md](taxprd.md)
+Product Specification (taxprd.md) - [taxprd.md](taxprd.md)
 
 ----
 
