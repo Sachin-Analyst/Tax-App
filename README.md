@@ -58,7 +58,7 @@ The core computation module handles:
 - *src/constants.js* - All FY 2025-26 tax constants: slab arrays for all three age groups, deduction caps, rebate limits, cess rate, HRA metro/non-metro percentages
 - *src/utils.js* - Shared formatting helpers: `fmt()`, `fmtNum()`, `toNum()`, `calc80CTotal()`
 - *src/components/* - Shared UI components: `NumberInput`, `FrequencyInput`, `ProgressBar`, `StepWrapper`, `TaxPreviewPanel`, `CommonQuestions`, `ConfusedLink`
-- *taxprd.md* - Complete product specification document: every text string, Tailwind class, layout rule, validation logic, and tax law correctness note — detailed enough to regenerate the entire app from scratch
+- *taxprd.md* - Complete product specification document: every text string, Tailwind class, layout rule, validation logic, and tax law correctness note detailed enough to regenerate the entire app from scratch
 
 ----
 
