@@ -111,3 +111,5 @@ Product Specification (taxprd.md) - [taxprd.md](taxprd.md)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Last updated: 2026
