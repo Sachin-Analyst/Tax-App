@@ -1,5 +1,5 @@
-# Tax-App  TaxClarity
-Welcome to TaxClarity. This repository presents a fully client side Indian income tax calculator built for salaried individuals. The app addresses a real everyday need  helping people instantly compare the old and new tax regimes for FY 2025-26, find out which one saves more money, and understand their TDS refund or payable status. Built with React (Vite), Tailwind CSS, and pure client-side JavaScript  no backend, no login, no data stored anywhere.
+# Tax-App  Tax Clarity
+Welcome to Tax Clarity. This repository presents a fully client side Indian income tax calculator built for salaried individuals. The app addresses a real everyday need  helping people instantly compare the old and new tax regimes for FY 2025-26, find out which one saves more money, and understand their TDS refund or payable status. Built with React (Vite), Tailwind CSS, and pure client-side JavaScript  no backend, no login, no data stored anywhere.
 
 ----
 
@@ -15,7 +15,7 @@ Welcome to TaxClarity. This repository presents a fully client side Indian incom
 
 ## Introduction
 ---
-*Project Title:* TaxClarity  Indian Income Tax Calculator FY 2025-26
+*Project Title:* Tax Clarity An Indian Income Tax Calculator FY 2025-26
 
 *Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)
 
@@ -112,4 +112,4 @@ Product Specification (taxprd.md) - [taxprd.md](taxprd.md)
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Last updated: 2026
+Last updated: September 2026
